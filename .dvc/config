@@ -1,0 +1,4 @@
+[core]
+    remote = datas
+['remote "datas"']
+    url = /home/sslab/dvc_test/dvc-test-remote
